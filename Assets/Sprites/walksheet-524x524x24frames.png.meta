@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: b08df6914a0144983a3dec8a7e00f26d
+timeCreated: 1477334322
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walksheet-524x524x24frames_0
+    21300002: walksheet-524x524x24frames_1
+    21300004: walksheet-524x524x24frames_2
+    21300006: walksheet-524x524x24frames_3
+    21300008: walksheet-524x524x24frames_4
+    21300010: walksheet-524x524x24frames_5
+    21300012: walksheet-524x524x24frames_6
+    21300014: walksheet-524x524x24frames_7
+    21300016: walksheet-524x524x24frames_8
+    21300018: walksheet-524x524x24frames_9
+    21300020: walksheet-524x524x24frames_10
+    21300022: walksheet-524x524x24frames_11
+    21300024: walksheet-524x524x24frames_12
+    21300026: walksheet-524x524x24frames_13
+    21300028: walksheet-524x524x24frames_14
+    21300030: walksheet-524x524x24frames_15
+    21300032: walksheet-524x524x24frames_16
+    21300034: walksheet-524x524x24frames_17
+    21300036: walksheet-524x524x24frames_18
+    21300038: walksheet-524x524x24frames_19
+    21300040: walksheet-524x524x24frames_20
+    21300042: walksheet-524x524x24frames_21
+    21300044: walksheet-524x524x24frames_22
+    21300046: walksheet-524x524x24frames_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 524
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2096
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2096
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2096
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_4
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2096
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1572
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_7
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1572
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_8
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1572
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_9
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1572
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1048
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_12
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1048
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_13
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1048
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_14
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1048
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 524
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_17
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 524
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_18
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 524
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_19
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 524
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_22
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walksheet-524x524x24frames_23
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
